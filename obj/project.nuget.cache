@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "69DBHUX0m3XmMGp8d25igQQMO4aHxw0lJ0LXd21g5JoXpH5q0XYx2dSka9i/dfBQstIPTZNL8nO+X9sM8NAezA==",
+  "dgSpecHash": "zp7R7b5CezDj2U4spB0VjcVBo//Bo49BZb6RIlHnlaEPUjimihagcOx4eBu371Ynt9CHuH/vjWyUqYpN1tz4Mw==",
   "success": true,
-  "projectFilePath": "E:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj",
+  "projectFilePath": "C:\\Rulo\\webword\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
