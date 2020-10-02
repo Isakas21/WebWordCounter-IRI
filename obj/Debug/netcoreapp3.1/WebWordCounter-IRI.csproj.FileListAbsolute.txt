@@ -1,0 +1,4 @@
+C:\Rulo\webword\WebWordCounter-IRI\obj\Debug\netcoreapp3.1\WebWordCounter-IRI.csprojAssemblyReference.cache
+C:\Rulo\webword\WebWordCounter-IRI\obj\Debug\netcoreapp3.1\WebWordCounter-IRI.AssemblyInfoInputs.cache
+C:\Rulo\webword\WebWordCounter-IRI\obj\Debug\netcoreapp3.1\WebWordCounter-IRI.AssemblyInfo.cs
+C:\Rulo\webword\WebWordCounter-IRI\obj\Debug\netcoreapp3.1\WebWordCounter-IRI.csproj.CoreCompileInputs.cache

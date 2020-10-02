@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj": {}
+    "C:\\Rulo\\webword\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj": {}
   },
   "projects": {
-    "E:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj": {
+    "C:\\Rulo\\webword\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj",
+        "projectUniqueName": "C:\\Rulo\\webword\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj",
         "projectName": "WebWordCounter-IRI",
-        "projectPath": "E:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj",
+        "projectPath": "C:\\Rulo\\webword\\WebWordCounter-IRI\\WebWordCounter-IRI.csproj",
         "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-        "outputPath": "E:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\WebWordCounter-IRI\\obj\\",
+        "outputPath": "C:\\Rulo\\webword\\WebWordCounter-IRI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
